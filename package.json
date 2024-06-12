@@ -1,0 +1,15 @@
+{
+  "name": "projecttemp",
+  "version": "1.0.0",
+  "description": "web d project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Saptasagare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0"
+  }
+}
